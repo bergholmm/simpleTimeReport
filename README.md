@@ -1,4 +1,4 @@
-# Simple timereport
+# Simple Time Report
 
 
 ## Installation
