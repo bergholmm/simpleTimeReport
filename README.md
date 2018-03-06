@@ -12,5 +12,5 @@ $ yarn install
 
 Build files and start local server on `http://localhost:8080/`:
 ```js
-$ yarn npm start
+$ yarn start
 ```
