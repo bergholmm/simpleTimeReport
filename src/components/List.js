@@ -18,7 +18,6 @@ const List = ({ status, children, reports, remove }) => {
                 <div className="card">
                     <p className="card-text">{ 'Total time worked' }</p>
                     <span className="card-executor">{ totalTime }</span>
-                    <span className="card-remove" onClick={() => onRemoveClick(id)}>-</span>
                 </div>
             </div>
         );
